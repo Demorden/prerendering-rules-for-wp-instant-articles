@@ -23,7 +23,7 @@ function rewrite_prerendering_init() {
 
 // FIRST we create ADDITIONAL rules: add selected posts to the list of prerendered posts in this page
 add_filter('wpinstant_prerendered_urls', function($urls) {
-    $values = get_field('articolo_prerender'); //change this according to your actual field name
+    $values = get_field('article_prerender'); //change this according to your actual field name
         if($values) {
             foreach($values as $value) {
                 $permalink = get_permalink( $value );
