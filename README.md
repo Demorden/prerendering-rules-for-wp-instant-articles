@@ -1,4 +1,4 @@
-# Prerendering Rules by Max (Demorden)
+# Prerendering Rules for Wordpress Instant Articles
 Snippet that allows per-post customization or override of prerendering rules for "WordPress Instant Articles" users.
 REQUIRES two plugins: "WordPress Instant Articles" (of course) AND (for now) "Advanced Custom Fields".
 
