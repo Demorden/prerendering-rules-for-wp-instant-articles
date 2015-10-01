@@ -1,15 +1,13 @@
 <?php
 /*
 * Plugin Name: Prerendering Rules by Max (Demorden)
-* Description: Snippet that allows override of prerendering rules. REQUIRES "WordPress Instant Articles" AND (for now) "Advanced Custom Fields". I could easily get rid of the latter but it's easier if you use it. Both are free anyway, and should be in your "must have" plugins list, imho.
-* Plugin URI:
+* Description: Snippet that allows per-post override of prerendering rules. REQUIRES "WordPress Instant Articles" AND (for now) "Advanced Custom Fields".
+* Plugin URI: https://github.com/Demorden/prerendering-rules-for-wp-instant-articles
 * Author: Max (Demorden)
 * Version: 1.0
 * Author URI: http://fantazine.eu/
 * License: GNU AGPL
-* Domain Path:       
-* Text Domain:       
-* GitHub Plugin URI: 
+* GitHub Plugin URI: https://github.com/Demorden/prerendering-rules-for-wp-instant-articles
 * GitHub Branch:     master
 */
 
